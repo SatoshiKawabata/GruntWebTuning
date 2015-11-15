@@ -1,0 +1,13 @@
+/*** uncss> filename: src/test.css ***/
+
+.title {
+  background-color: red;
+}
+
+.test {
+  float: left;
+}
+
+.window {
+  display: block;
+}
